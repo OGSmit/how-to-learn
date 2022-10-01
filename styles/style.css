@@ -178,12 +178,7 @@
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 
 .feynman {
   position: relative;
@@ -224,7 +219,70 @@
   position: absolute;
   top: 50%;
   right: 48px;
+
+}
+
+.kaufman {
+  background-color: black;
+  overflow: hidden;
+  position: relative;
+}
+
+.kaufman__title_theme_dark {
+  color: white;
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  text-align: center;
+  
+}
+
+.kaufman__subtitle_theme_dark {
+  color: white;
+  width: 60%;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+}
+
+.kufman__triangle {
+  background-image: url(/images/kaufman-triangle.svg);
+  width: 877px;
+  height: 877px;
+  position: absolute;
+  right: -210px;
+}
+
+.table_theme_dark {
+  display: flex;
   border: 2px red solid;
+  
+  
+  
+}
+
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+  border: 2px red solid;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  
+}
+
+.table__heading_theme_dark {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.table__text_theme_dark {
+  line-height: 1.2;
+  font-size: 18px;
 }
 
 .footer {
