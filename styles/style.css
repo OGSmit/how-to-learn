@@ -1,20 +1,14 @@
 .page {
   min-width: 1100px;
-  /* мы ещё не умеем делать мобильную версию сайта, */
-  /* поэтому выше установлена минимальная ширина страницы */
   max-width: 1600px;
-  /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
-
 }
 
 .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* выше установили ограничения для секции */
   display: flex;
   position: relative;
   z-index: -2;
@@ -28,7 +22,6 @@
   left: 64px;
   width: 228px;
   height: 32px;
-
 }
 
 .header__title { 
@@ -39,7 +32,6 @@
   position: absolute;
   left: 64px;
   z-index: 1;
-  
 }
 
 .header__subtitle {
@@ -48,14 +40,11 @@
   bottom: 30px;
   left: 64px;
   line-height: 25px;
-  font-size: 18px; 
-  
-   
+  font-size: 18px;
 }
 
 .header__link {
   color: #2f80ed;
-  
 }
 
 .header__main-illustration {
@@ -64,10 +53,8 @@
   position: absolute;
   bottom: 0;
   right: 0;
-  
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -78,12 +65,8 @@
 }
 
 .description {
- 
   display: flex;
   justify-content: space-around;
-  
-  
-
 }
 
 .two-columns {
@@ -91,33 +74,26 @@
   min-width: 784px;
   display: flex;
   margin-top: 100px;
-  
   min-height: 200px;
   justify-content: space-between;
   position: relative;
-  
-  
 }
 
 .two-columns__brief {
   line-height: 1.2;
   font-size: 18px;
-  
   color: #2f80ed;
   width: 175px;
-  
   position: relative;
   bottom: 15px;
 }
 
 .two-columns__main-text {
- 
   width: 80%; 
   min-width: 784px;  
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  
 }
 
 .two-columns__paragraph {
@@ -125,7 +101,6 @@
   font-size: 24px;
   margin: 0;
   padding: 0;
-
 }
 
 .two-columns__span-accent {
@@ -141,7 +116,6 @@
 
 .digits {
   display: flex;
-  
   flex-direction: column;
   align-items: center;
 }
@@ -162,28 +136,22 @@
   text-align: center;
   width: 60%;
   margin-top: 20px;
-  
 }
 
 .table  {
   display: flex;
   flex-wrap: wrap;
   width: 1100px;
-  gap: 28px;
-  
+  justify-content: space-between;
   margin-top: 60px;
   margin-bottom: 100px;
-  
 }
 
 .table__cell { 
-
+  margin-top: 60px;
   width: 250px;
- 
   display: flex;
   flex-direction: column;
-  
-
 }
 
 .table__heading {
@@ -200,9 +168,6 @@
   font-size: 18px;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-
-
 .feynman {
   position: relative;
   background-image: url(/images/feynman.png);
@@ -213,7 +178,6 @@
   display: flex;
   flex-direction: column;
   align-items: center; 
-
 }
 
 .feynman__title {
@@ -223,7 +187,6 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
-  
   margin: 0;
   margin-top: 100px;
 }
@@ -231,10 +194,8 @@
 .feynman__subtitle {
   line-height: 51px;
   font-size: 36px;
-  
   margin: 0;
   margin-top: 70px;
-  
 }
 
 .feynman__link {
@@ -245,7 +206,6 @@
   top: 50%;
   right: 48px;
   text-decoration: none;
-  
 }
 
 .kaufman {
@@ -267,8 +227,6 @@
   text-align: center;
   margin: 0;
   margin-top: 90px;
-
-  
 }
 
 .section-subtitle_theme_dark {
@@ -293,32 +251,22 @@
 .table_theme_dark {
   display: flex;
   flex-direction: row;
-  
   width: 1030px;
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 0;
   margin-bottom: 90px;
- 
-
-  
-  
-  
 }
 
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-top: 80px;
-  
-  
   display: flex;
   flex-direction: column;
-  
   margin: 0;
   margin-top: 80px;
   box-sizing: border-box;
-  
 }
 
 .table__heading_theme_dark {
@@ -341,19 +289,15 @@
   color: white;
   display: flex;
   justify-content: center;
-  
-  
- 
 }
 
 .footer__column {
   width: 90%;
   display: flex;
- margin-top: 60px;
- margin-bottom: 40px;
+  margin-top: 60px;
+  margin-bottom: 40px;
   min-height: 250px;
   justify-content: space-between;
-  
 }
 
 .footer__column_content_copyright {
@@ -361,8 +305,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
- 
-
 }
 
 .logo_place_footer {
@@ -382,7 +324,6 @@
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
-  
 }
 
 .footer__column-links {
@@ -390,9 +331,6 @@
   flex-direction: column;
   margin: 20px 0 16px;
   list-style: none;
-  
-
-  
 }
 
 .footer__column-link {
@@ -400,9 +338,7 @@
   line-height: 30px;
   font-size: 18px;
   text-decoration: none;
-  
   margin: 0;
-  
 }
 
 .footer__column-heading {
