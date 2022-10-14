@@ -1,11 +1,11 @@
-.page {
+/* .page {
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
-}
+}  */
 
-.header {
+/* .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
@@ -14,17 +14,17 @@
   z-index: 0;
   align-items: center;
   background-color: #f2f2f2;
-}
+}  */
 
-.logo_place_header {
+/*.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
   width: 228px;
   height: 32px;
-}
+} */
 
-.header__title { 
+/* .header__title { 
   width: 730px;
   line-height: 96px;
   font-size: 102px;
@@ -32,9 +32,9 @@
   z-index: 1;
   padding: 0;
   margin: auto 0 auto 64px;
-}
+} */
 
-.header__subtitle {
+/* .header__subtitle {
   position: absolute;
   width: 388px;
   bottom: 30px;
@@ -44,36 +44,36 @@
   z-index: 1;
   margin: 0;
   padding: 0;
-}
+} */
 
-.header__link {
+/* .header__link {
   color: #2f80ed;
   text-decoration: none;
-}
+} */
 
-.header__main-illustration {
+/* .header__main-illustration {
   width: 765px;
   height: 608px;
   position: absolute;
   bottom: 0;
   right: 0;
-}
+} */
 
-.header__square-pic {
+/* .header__square-pic {
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
   z-index: -1;
   position: absolute;
   right: 0;
-}
+} */
 
-.description {
+/* .description {
   display: flex;
   justify-content: space-around;
-}
+} */
 
-.two-columns {
+/* .two-columns {
   width: 80%;
   min-width: 784px;
   display: flex;
@@ -81,9 +81,9 @@
   min-height: 200px;
   justify-content: space-between;
   position: relative;
-}
+} */
 
-.two-columns__brief {
+/* .two-columns__brief {
   line-height: 1.2;
   font-size: 18px;
   color: #2f80ed;
@@ -92,34 +92,34 @@
   font-weight: normal;
   margin: 0;
   padding: 0;
-}
+} */
 
-.two-columns__main-text {
+/* .two-columns__main-text {
   width: 80%;
   min-width: 784px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
+} */
 
-.two-columns__paragraph {
+/* .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
   margin: 0;
   padding: 0;
   font-weight: normal;
-}
+} */
 
-.two-columns__span-accent {
+/* .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: 600;
-}
+} */
 
-.two-columns__margin {
+/* .two-columns__margin {
   margin-top: 30px;
   margin-bottom: 30px;
-}
+} */
 
 .digits {
   display: flex;
@@ -309,10 +309,10 @@
   flex-basis: 711px;
 }
 
-.logo_place_footer {
+/* .logo_place_footer {
   width: 228px;
   height: 32px;
-}
+} */
 
 .footer__author {
   margin: 18px 0;
