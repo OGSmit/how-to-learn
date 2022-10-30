@@ -3,8 +3,12 @@
     height: 38px;
     opacity: 1;
     transition: opacity .5s linear;
+    box-shadow: 0;
+    transition: box-shadow .5s linear;
 }
 
 .resources__link:hover {
   opacity: .6;
+  box-shadow: 0px 10px 18px 10px rgba(49, 53, 56, 0.19);
+  border-radius: 5%;
 }
