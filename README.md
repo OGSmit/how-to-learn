@@ -22,10 +22,6 @@
 
 ***
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ># Барбара Оаклей
 >*Изучайте несколько навыков одновременно, они обогащают друг друга*.
 >[американский учёный, переводчик, профессор](https://ru.wikipedia.org/wiki/%D0%9E%D0%B0%D0%BA%D0%BB%D0%B8,_%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0)
