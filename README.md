@@ -1,6 +1,7 @@
 <div id="header" align="left">
   <img src="/images/Mylogo.png" width="100"/>
   <img src="/images/hello.gif" width="100"/>
+  <p>And Welcome</p>
 </div>
 
 # Проект совместно с Яндекс
