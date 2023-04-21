@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="/images/Mylogo.png" width="100"/>
+  <img src="/images/hello.gif" width="100"/>
 </div>
 
 # Проект совместно с Яндекс
