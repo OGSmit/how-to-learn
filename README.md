@@ -25,7 +25,7 @@
 
 <div align="center">
 <p>Посмотреть проект</p>
-<a target="blank" href="https://ogsmit.github.io/how-to-learn/"><img src="./images/checkIt.gif"></a></center>
+<a target="_blank" href="https://ogsmit.github.io/how-to-learn/"><img src="./images/checkIt.gif"></a></center>
 </div>
 
 
