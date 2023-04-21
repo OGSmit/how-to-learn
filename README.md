@@ -1,10 +1,8 @@
 <div id="header" align="left">
   <img src="/images/Mylogo.png" width="100"/>
-  <img src="/images/hello.gif" width="100"/>
-  <p>And Welcome</p>
 </div>
 
-# Проект совместно с Яндекс
+# Проект "Научиться учиться" в рамках обучения на Яндекс Практикум
 
 ![Screenshot of a page](/images/preview.jpg)
 
@@ -24,9 +22,7 @@
 
 ***
 
-># Барбара Оаклей
->*Изучайте несколько навыков одновременно, они обогащают друг друга*.
->[американский учёный, переводчик, профессор](https://ru.wikipedia.org/wiki/%D0%9E%D0%B0%D0%BA%D0%BB%D0%B8,_%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0)
+<div align="center"><a href="https://ogsmit.github.io/how-to-learn/"><img src="./images/checkIt.gif"></a></center></div>
 
 
 ***
