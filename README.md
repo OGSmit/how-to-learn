@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="/images/Mylogo.png" width="100"/>
+</div>
 
 # Проект совместно с Яндекс
 
