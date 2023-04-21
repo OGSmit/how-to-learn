@@ -1,14 +1,15 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="/images/Mylogo.png" width="100"/>
 </div>
 
-# Проект "Научиться учиться" в рамках обучения на Яндекс Практикум
+<div align="center">
+  <h1>Проект "Научиться учиться"</h1>
+  <p>в рамках обучения на Яндекс Практикум</p>
+</div>
 
 ![Screenshot of a page](/images/preview.jpg)
 
-Проект демонстрирует навыки полученные в ходе 2го спринта 
-
-## Такие как 
+## Проект знакомил нас с такими понятиями как :
 
 - ***HTML**, **CSS***
 - *Флексбокс-верстка*
@@ -22,7 +23,10 @@
 
 ***
 
-<div align="center"><a href="https://ogsmit.github.io/how-to-learn/"><img src="./images/checkIt.gif"></a></center></div>
+<div align="center">
+<p>Посмотреть проект</p>
+<a target="blank" href="https://ogsmit.github.io/how-to-learn/"><img src="./images/checkIt.gif"></a></center>
+</div>
 
 
 ***
